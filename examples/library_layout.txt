@@ -1,0 +1,21 @@
+PackageLibrary/
+  Characters/
+    Robots/
+      Robot_Mk01.blend
+      Robot_Mk01.asset.json
+      Robot_Mk01.png
+    Creatures/
+      ForestBeast.blend
+      preview.png
+  Vehicles/
+    CargoTruck/
+      CargoTruck.blend
+      CargoTruck.asset.yaml
+      CargoTruck_preview.png
+  Props/
+    Crates/
+      IndustrialCrateSet.blend
+      IndustrialCrateSet.asset.json
+  Environments/
+    SciFiCorridor.blend
+    SciFiCorridor.asset.json
