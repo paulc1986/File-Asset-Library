@@ -1,0 +1,29 @@
+{
+  "display_name": "Robot Mk01",
+  "catalogue": "Characters/Robots/Hero",
+  "category": "Characters",
+  "subcategory": "Robots",
+  "tags": ["robot", "rigged", "mechanical"],
+  "thumbnail": "Robot_Mk01.png",
+  "description": "A full hero robot package with rig, materials, and actions.",
+  "author": "Studio Example",
+  "version": "1.2.0",
+  "import_mode": "AUTO",
+  "enabled": true,
+  "items": [
+    {
+      "id": "full_rig",
+      "display_name": "Robot Mk01 Full Rig",
+      "entry_collection": "ASSET_RobotMk01",
+      "tags": ["character", "full"],
+      "thumbnail": "Robot_Mk01.png"
+    },
+    {
+      "id": "weapon_arm",
+      "display_name": "Robot Mk01 Weapon Arm",
+      "entry_object": "WeaponArm_Root",
+      "import_mode": "OBJECT_HIERARCHY",
+      "tags": ["prop", "arm", "kitbash"]
+    }
+  ]
+}

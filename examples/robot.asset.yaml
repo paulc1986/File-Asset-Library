@@ -1,0 +1,15 @@
+display_name: Cargo Truck
+catalogue: Vehicles/Trucks/Service
+category: Vehicles
+subcategory: Trucks
+tags:
+  - vehicle
+  - truck
+  - rigged
+thumbnail: CargoTruck_preview.png
+description: A reusable cargo truck package with body, wheel rig, and materials.
+author: Studio Example
+version: 2.0.0
+import_mode: AUTO
+enabled: true
+entry_collection: ASSET_CargoTruck
